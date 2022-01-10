@@ -1,0 +1,1 @@
+# static-gen-01
